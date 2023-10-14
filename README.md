@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhijeetDev2
+- 👋 Hi, I’m Abhijeet
 - 🌱 I’m currently learning Javascript, React
 
 <!---
